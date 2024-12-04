@@ -56,11 +56,13 @@ header > p{
     padding-right: 20px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.25);
     margin: auto;
+    margin-top: 20px;
     margin-bottom: 10px;
 }
 
 header > nav{
     padding-top: 60px;
+    padding-bottom: 20px;
 }
 
 nav > a{
